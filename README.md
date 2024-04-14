@@ -1,6 +1,6 @@
 # Numerical Methods
 
-This repository contains materials and tasks related to the "Numerical Methods" course offered in the third semester of Applied Computer Science at AGH University of Krakow.
+This repository contains materials and tasks related to the "Numerical Methods" course offered in the fourth semester of Applied Computer Science at AGH University of Krakow.
 
 ## Course Topics
 
