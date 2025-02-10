@@ -1,0 +1,10 @@
+Przedział 1: Liczność = 11, Gęstość = 2626.06
+Przedział 2: Liczność = 66, Gęstość = 2250.91
+Przedział 3: Liczność = 191, Gęstość = 2399.89
+Przedział 4: Liczność = 359, Gęstość = 2316.35
+Przedział 5: Liczność = 591, Gęstość = 2312.96
+Przedział 6: Liczność = 905, Gęstość = 2374.21
+Przedział 7: Liczność = 1218, Gęstość = 2289.58
+Przedział 8: Liczność = 1780, Gęstość = 2514.46
+Przedział 9: Liczność = 2147, Gęstość = 2362.02
+Przedział 10: Liczność = 2732, Gęstość = 2406.7

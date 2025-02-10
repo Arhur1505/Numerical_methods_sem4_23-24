@@ -1,0 +1,24 @@
+NL: 1000
+Vsr: 227.128082, Vsr_exact: 230.051760
+s(Vsr): 3.053381
+Vsr_kw: 60900.980380, Vsr_kw_exact: 62349.397590
+s(Vsr_kw): 1572.436667
+
+NL: 10000
+Vsr: 229.318070, Vsr_exact: 230.051760
+s(Vsr): 0.976298
+Vsr_kw: 62117.396585, Vsr_kw_exact: 62349.397590
+s(Vsr_kw): 513.445942
+
+NL: 100000
+Vsr: 230.196552, Vsr_exact: 230.051760
+s(Vsr): 0.817661
+Vsr_kw: 62417.060260, Vsr_kw_exact: 62349.397590
+s(Vsr_kw): 429.622553
+
+NL: 1000000
+Vsr: 230.243157, Vsr_exact: 230.051760
+s(Vsr): -nan
+Vsr_kw: 62456.763216, Vsr_kw_exact: 62349.397590
+s(Vsr_kw): -nan
+

@@ -1,0 +1,10 @@
+Przedział 1: Liczność = 10005, Gęstość = 2.38852e+06
+Przedział 2: Liczność = 69636, Gęstość = 2.37491e+06
+Przedział 3: Liczność = 190023, Gęstość = 2.38761e+06
+Przedział 4: Liczność = 369740, Gęstość = 2.38565e+06
+Przedział 5: Liczność = 609395, Gęstość = 2.38496e+06
+Przedział 6: Liczność = 911479, Gęstość = 2.3912e+06
+Przedział 7: Liczność = 1270799, Gęstość = 2.38883e+06
+Przedział 8: Liczność = 1689377, Gęstość = 2.38644e+06
+Przedział 9: Liczność = 2170324, Gęstość = 2.38768e+06
+Przedział 10: Liczność = 2709222, Gęstość = 2.38664e+06
